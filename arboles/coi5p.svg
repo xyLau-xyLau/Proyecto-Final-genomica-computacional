@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="656"
+   height="608"
+   name="coi5p.svg"
+   y="0"
+   viewBox="0 0 656 608"
+   id="svg52"
+   sodipodi:docname="coi5p.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs52" />
+  <sodipodi:namedview
+     id="namedview52"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.90625"
+     inkscape:cx="327.86885"
+     inkscape:cy="492.85246"
+     inkscape:window-width="2560"
+     inkscape:window-height="1368"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg52" />
+  <polyline
+     points="656,608 0,608 0,0 656,0 656,608"
+     fill="white"
+     id="polyline1" />
+  <text
+     x="446"
+     y="44"
+     fill="#232629"
+     font-size="16"
+     font-family="Helvetica"
+     id="text1"> Melozone fusca</text>
+  <polyline
+     points="400,51 400,36 440,36"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline2" />
+  <text
+     x="446"
+     y="75"
+     fill="#232629"
+     font-size="16"
+     font-family="Helvetica"
+     id="text2"> Oriturus superciliosus</text>
+  <polyline
+     points="400,52 400,67 440,67"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline3" />
+  <polyline
+     points="360,74 360,51 400,51"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline4" />
+  <text
+     x="446"
+     y="106"
+     fill="#232629"
+     font-size="16"
+     font-family="Helvetica"
+     id="text4"> Quiscalus mexicanus</text>
+  <polyline
+     points="360,75 360,98 440,98"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline5" />
+  <polyline
+     points="320,109 320,74 360,74"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline6" />
+  <text
+     x="446"
+     y="137"
+     fill="#232629"
+     font-size="16"
+     font-family="Helvetica"
+     id="text6"> Spinus psaltria</text>
+  <polyline
+     points="400,144 400,129 440,129"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline7" />
+  <text
+     x="446"
+     y="168"
+     fill="#232629"
+     font-size="16"
+     font-family="Helvetica"
+     id="text7"> Haemorhous mexicanus</text>
+  <polyline
+     points="400,145 400,160 440,160"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline8" />
+  <polyline
+     points="320,110 320,144 400,144"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline9" />
+  <polyline
+     points="280,150 280,109 320,109"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline10" />
+  <text
+     x="446"
+     y="199"
+     fill="#232629"
+     font-size="16"
+     font-family="Helvetica"
+     id="text10"> Passer domesticus</text>
+  <polyline
+     points="280,151 280,191 440,191"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline11" />
+  <polyline
+     points="240,197 240,150 280,150"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline12" />
+  <text
+     x="446"
+     y="230"
+     fill="#232629"
+     font-size="16"
+     font-family="Helvetica"
+     id="text12"> Hirundo rustica</text>
+  <polyline
+     points="360,245 360,222 440,222"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline13" />
+  <text
+     x="446"
+     y="261"
+     fill="#232629"
+     font-size="16"
+     font-family="Helvetica"
+     id="text13"> Toxostoma curvirostre</text>
+  <polyline
+     points="400,268 400,253 440,253"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline14" />
+  <text
+     x="446"
+     y="292"
+     fill="#232629"
+     font-size="16"
+     font-family="Helvetica"
+     id="text14"> Turdus migratorius</text>
+  <polyline
+     points="400,269 400,284 440,284"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline15" />
+  <polyline
+     points="360,246 360,268 400,268"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline16" />
+  <polyline
+     points="240,198 240,245 360,245"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline17" />
+  <polyline
+     points="200,256 200,197 240,197"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline18" />
+  <text
+     x="446"
+     y="323"
+     fill="#232629"
+     font-size="16"
+     font-family="Helvetica"
+     id="text18"> Thryomanes bewickii</text>
+  <polyline
+     points="200,257 200,315 440,315"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline19" />
+  <polyline
+     points="160,308 160,256 200,256"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline20" />
+  <text
+     x="446"
+     y="354"
+     fill="#232629"
+     font-size="16"
+     font-family="Helvetica"
+     id="text20"> Pyrocephalus rubinus</text>
+  <polyline
+     points="400,361 400,346 440,346"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline21" />
+  <text
+     x="446"
+     y="385"
+     fill="#232629"
+     font-size="16"
+     font-family="Helvetica"
+     id="text21"> Contopus pertinax</text>
+  <polyline
+     points="400,362 400,377 440,377"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline22" />
+  <polyline
+     points="160,309 160,361 400,361"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline23" />
+  <polyline
+     points="120,372 120,308 160,308"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline24" />
+  <text
+     x="446"
+     y="416"
+     fill="#232629"
+     font-size="16"
+     font-family="Helvetica"
+     id="text24"> Buteo jamaicensis</text>
+  <polyline
+     points="280,437 280,408 440,408"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline25" />
+  <text
+     x="446"
+     y="447"
+     fill="#232629"
+     font-size="16"
+     font-family="Helvetica"
+     id="text25"> Columbina inca</text>
+  <polyline
+     points="320,466 320,439 440,439"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline26" />
+  <text
+     x="446"
+     y="478"
+     fill="#232629"
+     font-size="16"
+     font-family="Helvetica"
+     id="text26"> Zenaida macroura</text>
+  <polyline
+     points="360,493 360,470 440,470"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline27" />
+  <text
+     x="446"
+     y="509"
+     fill="#232629"
+     font-size="16"
+     font-family="Helvetica"
+     id="text27"> Streptopelia decaocto</text>
+  <polyline
+     points="400,516 400,501 440,501"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline28" />
+  <text
+     x="446"
+     y="540"
+     fill="#232629"
+     font-size="16"
+     font-family="Helvetica"
+     id="text28"> Columba livia</text>
+  <polyline
+     points="400,517 400,532 440,532"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline29" />
+  <polyline
+     points="360,494 360,516 400,516"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline30" />
+  <polyline
+     points="320,467 320,493 360,493"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline31" />
+  <polyline
+     points="280,438 280,466 320,466"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline32" />
+  <polyline
+     points="120,373 120,437 280,437"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline33" />
+  <polyline
+     points="80,467 80,372 120,372"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline34" />
+  <text
+     x="446"
+     y="571"
+     fill="#232629"
+     font-size="16"
+     font-family="Helvetica"
+     id="text34"> Cynanthus laristrosis</text>
+  <polyline
+     points="80,468 80,563 440,563"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline35" />
+  <polyline
+     points="40,530 40,467 80,467"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline36" />
+  <text
+     x="446"
+     y="602"
+     fill="#232629"
+     font-size="16"
+     font-family="Helvetica"
+     id="text36"> Gallus gallus</text>
+  <polyline
+     points="40,531 40,594 440,594"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     stroke-linecap="square"
+     id="polyline37" />
+  <text
+     x="376"
+     y="379"
+     fill="#232629"
+     font-size="13"
+     font-family="Helvetica"
+     id="text37">100</text>
+  <text
+     x="383"
+     y="534"
+     fill="#232629"
+     font-size="13"
+     font-family="Helvetica"
+     id="text38">61</text>
+  <text
+     x="343"
+     y="511"
+     fill="#232629"
+     font-size="13"
+     font-family="Helvetica"
+     id="text39">91</text>
+  <text
+     x="383"
+     y="46"
+     fill="#232629"
+     font-size="13"
+     font-family="Helvetica"
+     id="text40">90</text>
+  <text
+     x="303"
+     y="484"
+     fill="#232629"
+     font-size="13"
+     font-family="Helvetica"
+     id="text41">68</text>
+  <text
+     x="343"
+     y="69"
+     fill="#232629"
+     font-size="13"
+     font-family="Helvetica"
+     id="text42">58</text>
+  <text
+     x="383"
+     y="162"
+     fill="#232629"
+     font-size="13"
+     font-family="Helvetica"
+     id="text43">56</text>
+  <text
+     x="303"
+     y="104"
+     fill="#232629"
+     font-size="13"
+     font-family="Helvetica"
+     id="text44">48</text>
+  <text
+     x="263"
+     y="145"
+     fill="#232629"
+     font-size="13"
+     font-family="Helvetica"
+     id="text45">50</text>
+  <text
+     x="383"
+     y="286"
+     fill="#232629"
+     font-size="13"
+     font-family="Helvetica"
+     id="text46">32</text>
+  <text
+     x="343"
+     y="263"
+     fill="#232629"
+     font-size="13"
+     font-family="Helvetica"
+     id="text47">30</text>
+  <text
+     x="223"
+     y="192"
+     fill="#232629"
+     font-size="13"
+     font-family="Helvetica"
+     id="text48">38</text>
+  <text
+     x="183"
+     y="251"
+     fill="#232629"
+     font-size="13"
+     font-family="Helvetica"
+     id="text49">76</text>
+  <text
+     x="263"
+     y="455"
+     fill="#232629"
+     font-size="13"
+     font-family="Helvetica"
+     id="text50">24</text>
+  <text
+     x="143"
+     y="303"
+     fill="#232629"
+     font-size="13"
+     font-family="Helvetica"
+     id="text51">19</text>
+  <text
+     x="103"
+     y="367"
+     fill="#232629"
+     font-size="13"
+     font-family="Helvetica"
+     id="text52">25</text>
+  <rect
+     style="fill:#ffffff;fill-opacity:1"
+     id="rect52"
+     width="79.737701"
+     height="24.131147"
+     x="526.16394"
+     y="553.44263" />
+</svg>
